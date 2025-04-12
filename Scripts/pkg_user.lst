@@ -1,4 +1,4 @@
-# --------------------------------------------------- // System
+.sh# --------------------------------------------------- // System
 downgrade                                              # downgrade packages
 wttrbar                                                # for weather
 python-requests|wttrbar                                # script dependency
@@ -16,6 +16,10 @@ spicetify-cli                                          # cli to customize spotif
 neovim                                                 # vim based text editor
 obsidian                                               # Markdown editor
 dbeaver-ee                                             # DBMS viewer tool
+discord
+boxes
+mission-center-git
+obs-studio-git
 
 # --------------------------------------------------- // Editor
 visual-studio-code-bin                                 # MS  text editor

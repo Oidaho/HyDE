@@ -30,8 +30,5 @@ telegram-desktop-bin                                   # Telegramm messenger
 wireguard-tools                                        # Wireguard protocol
 networkmanager-openconnect                             # Open Connect like protocols
 
-# --------------------------------------------------- // Editor
-visual-studio-code-bin                                 # MS  text editor
-
 # --------------------------------------------------- // Backends
 electron                                              # electron backend

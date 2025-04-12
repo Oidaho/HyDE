@@ -24,6 +24,7 @@ impression                                             # Bootable USB drives
 postman-bin                                            # API Development
 eog-git                                                # Image viewer
 clapper-git                                            # Video viewer
+telegram-desktop-bin                                   # Telegramm messenger
 
 # --------------------------------------------------- // VPN
 wireguard-tools                                        # Wireguard protocol

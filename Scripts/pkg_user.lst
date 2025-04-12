@@ -20,6 +20,10 @@ discord                                                # Discord vioce chat
 boxes                                                  # VM manger
 mission-center-git                                     # Mission Center
 obs-studio-git                                         # Video recorder
+impression                                             # Bootable USB drives
+postman-bin                                            # API Development
+eog-git                                                # Image viewer
+clapper-git                                            # Video viewer
 
 # --------------------------------------------------- // VPN
 wireguard-tools                                        # Wireguard protocol

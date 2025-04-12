@@ -16,10 +16,14 @@ spicetify-cli                                          # cli to customize spotif
 neovim                                                 # vim based text editor
 obsidian                                               # Markdown editor
 dbeaver-ee                                             # DBMS viewer tool
-discord
-boxes
-mission-center-git
-obs-studio-git
+discord                                                # Discord vioce chat
+boxes                                                  # VM manger
+mission-center-git                                     # Mission Center
+obs-studio-git                                         # Video recorder
+
+# --------------------------------------------------- // VPN
+wireguard-tools                                        # Wireguard protocol
+networkmanager-openconnect                             # Open Connect like protocols
 
 # --------------------------------------------------- // Editor
 visual-studio-code-bin                                 # MS  text editor

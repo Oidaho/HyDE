@@ -1,7 +1,5 @@
-.sh# --------------------------------------------------- // System
+# --------------------------------------------------- // System
 downgrade                                              # downgrade packages
-wttrbar                                                # for weather
-python-requests|wttrbar                                # script dependency
 
 # --------------------------------------------------- // Misc
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
@@ -9,22 +7,9 @@ emote                                                  # emoji picker gtk3
 
 # --------------------------------------------------- // Music
 cava                                                   # audio visualizer
-spotify                                                # proprietary music streaming service
-spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
 neovim                                                 # vim based text editor
-obsidian                                               # Markdown editor
-dbeaver-ee                                             # DBMS viewer tool
-discord                                                # Discord vioce chat
-boxes                                                  # VM manger
-mission-center-git                                     # Mission Center
-obs-studio-git                                         # Video recorder
-impression                                             # Bootable USB drives
-postman-bin                                            # API Development
-eog-git                                                # Image viewer
-clapper-git                                            # Video viewer
-telegram-desktop-bin                                   # Telegramm messenger
 
 # --------------------------------------------------- // VPN
 wireguard-tools                                        # Wireguard protocol

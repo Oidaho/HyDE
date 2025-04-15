@@ -17,5 +17,9 @@ yandex-disk                                            # Yandex Disk sync
 wireguard-tools                                        # Wireguard protocol
 networkmanager-openconnect                             # Open Connect like protocols
 
+# --------------------------------------------------- // Containering
+docker                                                 # Docker
+docker-compose                                         # Docker-compose
+
 # --------------------------------------------------- // Backends
-electron                                              # electron backend
+electron                                               # electron backend

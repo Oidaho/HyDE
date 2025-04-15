@@ -4,12 +4,14 @@ downgrade                                              # downgrade packages
 # --------------------------------------------------- // Misc
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
 emote                                                  # emoji picker gtk3
+cronie                                                 # Cron scheduler
 
 # --------------------------------------------------- // Music
 cava                                                   # audio visualizer
 
 # --------------------------------------------------- // Apps
 neovim                                                 # vim based text editor
+yandex-disk                                            # Yandex Disk sync
 
 # --------------------------------------------------- // VPN
 wireguard-tools                                        # Wireguard protocol

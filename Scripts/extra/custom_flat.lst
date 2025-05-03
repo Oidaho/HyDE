@@ -7,7 +7,9 @@ io.gitlab.adhami3310.Impression                  # Impression
 
 
 # ------------------------------------------- // Browser
-ru.yandex.Browser                                # Yandex
+# ru.yandex.Browser                              # Yandex
+app.zen_browser.zen                              # Zen browser (firefox based)
+
 
 # ------------------------------------------- // Social
 org.telegram.desktop                             # Telegram
@@ -16,12 +18,17 @@ com.discordapp.Discord                           # Discord
 
 # ------------------------------------------- // Productivity
 md.obsidian.Obsidian                             # Obsidian
-# org.mozilla.Thunderbird                        # Thunderbird
+org.mozilla.Thunderbird                          # Thunderbird
 io.github.alainm23.planify                       # Planify
+io.github.nate_xyz.Paleta                        # Color palete generator
+com.jgraph.drawio.desktop                        # Draw diagrams
+org.libreoffice.LibreOffice                      # Office
+
 
 # ------------------------------------------- // Image/Graphics
 org.gimp.GIMP                                    # Gimp
 org.gnome.eog                                    # ImageViewer
+
 
 # ------------------------------------------- // Audio/Video
 org.gnome.Decibels                               # Audio player
@@ -29,6 +36,7 @@ com.spotify.Client                               # Spotify
 org.kde.kdenlive                                 # Kdenlive video editor
 com.obsproject.Studio                            # OBS Studio
 com.github.rafostar.Clapper                      # Clapper
+
 
 # ------------------------------------------- // Development
 com.visualstudio.code                            # VS Code

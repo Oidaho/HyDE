@@ -2,11 +2,17 @@
 # Commands to execute on startup (before the prompt is shown)
 # This is a good place to load graphic/ascii art, display system information, etc.
 
+# The commands will be executed only at the start of Kitty.
+# It can be corrected by using $ALACRITTY_WINDOW_ID instead of $KITTY_PID, for example.
 
-command -v pokego >/dev/null && pokego --no-title -r 1,3,6
+if [[ -n "$KITTY_PID" ]]; then
 
-# fastfetch --logo-type kitty
-# fastfetch.sh
+    # fastfetch --logo-type kitty
+    # fastfetch.sh
+    command -v pokego >/dev/null && pokego --no-title -r 1,3,6
+
+fi
+
 
 #  Aliases 
 # Override aliases here or in '~/.zshrc' (already set in .zshenv)
